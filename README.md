@@ -1,67 +1,32 @@
 
-# Broken Friendship
-### *I Still Want to Send You a Message*
+# Broken Friendship: I Still Want to Send You a Message
 
 **Hypercinema Final Project**
 
----
+## 1. What elements have you gathered that you would like to share? Why? What is interesting about these elements to you?
 
-## 01 / CONCEPT & MATERIALS
+My project revolves around a broken friendship. I've gone through some materials from the past, but I don't really want to share them directly. Instead, I hope to express these experiences in a more subtle and indirect way.
 
-### What elements have you gathered?
+I'm particularly interested in concepts related to digital communication, such as signal loss, transmission delays, data loss, and unsent messages. I think these technical phenomena can serve as metaphors for changes in human relationships.
 
-My project revolves around a **broken friendship**. I've gone through some materials from the past, but I don't really want to share them directly.
+Visually, I'm planning to combine retro computer interfaces, archived records, glitch effects, and a final animation of electrical signals made up of particles. Rather than presenting a complete story directly, I want the audience to piece together what happened through fragmented records and clues.
 
-Instead, I hope to express these experiences in a more **subtle and indirect way**.
-
-I'm particularly interested in digital communication:
-
-- Signal loss
-- Transmission delays
-- Data loss
-- Unsent messages
-
-I think these technical phenomena can serve as metaphors for changes in human relationships.
-
-Visually, I'm planning to combine *retro computer interfaces, archived records, glitch effects,* and a final animation of electrical signals made up of particles.
-
----
-
-## 02 / AUDIENCE INTERACTION
-
-### How will the audience experience the piece?
+## 2. How will your audience members access these elements? What actions will they take to reveal, explore, or otherwise experience your piece?
 
 I'm planning to create a browser-based interactive text adventure and puzzle game, inspired by *Zork* and *Type Help*.
 
-**The goal is simple: Send a message to someone on the other end of the terminal.**
+The goal of the game is to send a message to "someone" on the other end of the terminal. Players will start with a simulated computer terminal, where they can type commands like `HELP`, `LIST`, `READ`, and `OPEN` to explore archived files, chat histories, and other clues. Eventually, they'll need to find a way to access the messaging system and type out a message.
 
-Players will explore archived files, chat histories, and clues through commands such as:
+Whether that message will ever successfully reach the other person remains unknown.
 
-```text
-> HELP
-> LIST
-> READ
-> OPEN
-```
+At the very end, I want to create a visual sequence using patterns made of ASCII characters to represent electrical signals. I believe that once a signal is sent, it can travel beyond the boundaries of past, present, and future, passing through one, two, three, or even higher dimensions. And somehow, someday, it might finally reach that person.
 
-Eventually, they must find a way to access the messaging system and send a message.
+Through this experience, I don't just want the audience to witness a story about a broken friendship. I want to offer an alternative way of looking at it.
 
-**But whether the message will ever reach the other person remains unknown.**
+People often say that some relationships are simply not meant to last, or that two people have reached the end of their time together. But I don't really like this kind of passive, fatalistic explanation.
 
-At the end, ASCII characters will form animated digital patterns representing electrical signals.
+**I want to challenge the idea that losing a connection is something we must simply accept.**
 
-I believe that once a signal is sent, it can travel beyond the boundaries of past, present, and future, passing through one, two, three, or even higher dimensions.
+## 3. What remains unknown?
 
-*And somehow, someday, it might finally reach that person.*
-
-> I want to challenge the idea that losing a connection is something we must simply accept.
-
----
-
-## 03 / WHAT REMAINS UNKNOWN?
-
-I'm still figuring out the game's **structure, puzzles, and overall flow!**
-
----
-
-*Transmission complete. Reception unknown.*
+I'm still figuring out the game's structure, puzzles, and overall flow!
