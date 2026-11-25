@@ -1,0 +1,31 @@
+# Broken Friendship: I Still Want to Send You a Message
+
+**Hypercinema Final Project**
+
+### 1. What elements have you gathered that you would like to share? Why? What is interesting about these elements to you?
+
+My project revolves around a broken friendship. I've gone through some materials from the past, but I don't really want to share them directly. Instead, I hope to express these experiences in a more subtle and indirect way.
+
+I'm particularly interested in concepts related to digital communication, such as signal loss, transmission delays, data loss, and unsent messages. I think these technical phenomena can serve as metaphors for changes in human relationships.
+
+Visually, I'm planning to combine retro computer interfaces, archived records, glitch effects, and a final animation of electrical signals made up of particles. Rather than presenting a complete story directly, I want the audience to piece together what happened through fragmented records and clues.
+
+### 2. How will your audience members access these elements? What actions will they take to reveal, explore, or otherwise experience your piece?
+
+I'm planning to create a browser-based interactive text adventure and puzzle game, inspired by *Zork* and *Type Help*.
+
+The goal of the game is to send a message to "someone" on the other end of the terminal. Players will start with a simulated computer terminal, where they can type commands like `HELP`, `LIST`, `READ`, and `OPEN` to explore archived files, chat histories, and other clues. Eventually, they'll need to find a way to access the messaging system and type out a message.
+
+Whether that message will ever successfully reach the other person remains unknown.
+
+At the very end, I want to create a visual sequence using patterns made of ASCII characters to represent electrical signals. I believe that once a signal is sent, it can travel beyond the boundaries of past, present, and future, passing through one, two, three, or even higher dimensions. And somehow, someday, it might finally reach that person.
+
+Through this experience, I don't just want the audience to witness a story about a broken friendship. I want to offer an alternative way of looking at it.
+
+People often say that some relationships are simply not meant to last, or that two people have reached the end of their time together. But I don't really like this kind of passive, fatalistic explanation.
+
+I want to challenge the idea that losing a connection is something we must simply accept.
+
+### 3. What remains unknown?
+
+I'm still figuring out the game's structure, puzzles, and overall flow!
